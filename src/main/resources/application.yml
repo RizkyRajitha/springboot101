@@ -1,0 +1,6 @@
+app:
+  datasource:
+    jdbc-url: jdbc:postgresql://192.168.99.100:5432/springbootdemo
+    username: postgres
+    password: 123
+    pool-size: 30
